@@ -14,12 +14,12 @@ body {
 }
 
 .month {
-	font-size: 6px;
+	font-size: large;
 	color: chocolate;
 }
 
 .day {
-	font-size: 6px;
+	font-size: large;
 	color: rgb(54, 14, 14);
 }
 
